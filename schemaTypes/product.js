@@ -130,6 +130,30 @@ export const product = defineType({
                     of: [{type: 'string'}]
                 }
             ]
+        }),
+        defineField({
+            name: 'especificacoes_cozinha',
+            title: 'Especificações da Cozinha',
+            type: 'object',
+            fields: [
+                {name: 'modelo', title: 'Modelo', type: 'string'},
+                {name: 'pecas', title: 'Quantidade de Peças', type: 'string'},
+                {name: 'composicao', title: 'Composição (ex: 1 paneleiro, 2 aéreos)', type: 'string'},
+                {name: 'estrutura', title: 'Estrutura (ex: 100% MDF)', type: 'string'},
+                {name: 'acabamento', title: 'Acabamento/Pintura', type: 'string'},
+                {
+                    name: 'dimensoes', 
+                    title: 'Dimensões (Objeto Aninhado)', 
+                    type: 'object',
+                    fields: [
+                        {name: 'altura', title: 'Altura', type: 'string'},
+                        {name: 'largura', title: 'Largura', type: 'string'},
+                        {name: 'profundidade', title: 'Profundidade', type: 'string'}
+                    ]
+                },
+                {name: 'cor', title: 'Cor', type: 'string'},
+                {name: 'estilo', title: 'Estilo', type: 'string'}
+            ]
         })
     ]
 })

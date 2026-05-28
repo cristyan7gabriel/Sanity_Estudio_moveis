@@ -154,6 +154,45 @@ export const product = defineType({
                 {name: 'cor', title: 'Cor', type: 'string'},
                 {name: 'estilo', title: 'Estilo', type: 'string'}
             ]
+        }),
+        defineField({
+            name: 'especificacoes_gerais',
+            title: 'Especificações Gerais (Outros Produtos)',
+            type: 'object',
+            fields: [
+                {name: 'modelo', title: 'Modelo', type: 'string'},
+                {name: 'linha', title: 'Linha/Coleção', type: 'string'},
+                {name: 'altura', title: 'Altura', type: 'string'},
+                {name: 'largura', title: 'Largura', type: 'string'},
+                {name: 'profundidade', title: 'Profundidade', type: 'string'},
+                {name: 'peso', title: 'Peso', type: 'string'},
+                {name: 'material', title: 'Material/Composição', type: 'string'},
+                {name: 'acabamento', title: 'Acabamento/Pintura', type: 'string'},
+                {name: 'cor', title: 'Cor', type: 'string'},
+                {name: 'gavetas', title: 'Quantidade de Gavetas', type: 'string'},
+                {name: 'portas', title: 'Quantidade de Portas', type: 'string'},
+                {name: 'prateleiras', title: 'Quantidade de Prateleiras', type: 'string'},
+                {name: 'garantia', title: 'Garantia', type: 'string'},
+                {name: 'diferenciais', title: 'Diferenciais', type: 'string'},
+                {name: 'observacoes', title: 'Observações', type: 'string'},
+                {name: 'tamanho_colchao', title: 'Tamanho do Colchão', type: 'string', description: 'Ex: Queen, King, Casal, Solteiro'},
+                {name: 'espuma', title: 'Tipo de Espuma/Densidade', type: 'string'},
+                {name: 'medida_colchao', title: 'Medida do Colchão', type: 'string', description: 'Ex: 1,98x1,58m'},
+                {name: 'tipo_colchao', title: 'Tipo de Colchão', type: 'string', description: 'Ex: Molas Ensacadas, Espuma'},
+                {
+                    name: 'atributos_extras',
+                    title: 'Campos Coringa (Atributos Extras)',
+                    description: 'Adicione qualquer outra especificação que não exista acima',
+                    type: 'array',
+                    of: [{
+                        type: 'object',
+                        fields: [
+                            { name: 'chave', title: 'Nome do Atributo', type: 'string', description: 'Ex: Tipo de Pés, Tipo de Dobradiça' },
+                            { name: 'valor', title: 'Valor', type: 'string', description: 'Ex: Madeira Maciça, Metálica' }
+                        ]
+                    }]
+                }
+            ]
         })
     ]
 })

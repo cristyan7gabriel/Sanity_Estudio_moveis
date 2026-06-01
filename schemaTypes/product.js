@@ -161,6 +161,7 @@ export const product = defineType({
             description: 'Adicione as especificações e arraste para reordenar como desejar.',
             type: 'array',
             of: [{
+                name: 'especificacao_item',
                 type: 'object',
                 fields: [
                     { name: 'chave', title: 'Nome do Atributo', type: 'string', description: 'Ex: Altura, Largura, Modelo, Tipo de Pés, Tamanho do Colchão' },

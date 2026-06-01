@@ -2,7 +2,7 @@ import { defineField, defineType } from 'sanity'
 
 export const category = defineType({
     name: 'category',
-    title: 'Categoria',
+    title: 'Subseção (Categoria)',
     type: 'document',
     fields: [
         defineField({
@@ -17,6 +17,14 @@ export const category = defineType({
             description: 'Usado na URL do site. Gere automaticamente baseado no nome.',
             type: 'slug',
             options: { source: 'name' },
+            validation: (Rule) => Rule.required(),
+        }),
+        defineField({
+            name: 'section',
+            title: 'Seção (Grupo)',
+            type: 'reference',
+            to: [{ type: 'section' }],
+            description: 'Selecione a seção principal à qual esta categoria pertence (ex: SALA DE JANTAR)',
             validation: (Rule) => Rule.required(),
         })
     ]

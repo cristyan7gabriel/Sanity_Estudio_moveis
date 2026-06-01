@@ -1,0 +1,1587 @@
+{
+  "categories": [
+    {
+      "id": "mesas",
+      "name": "Mesas",
+      "isHighlight": true
+    },
+    {
+      "id": "cadeiras",
+      "name": "Cadeiras"
+    }
+  ],
+  "products": [
+    {
+      "id": "cadeira-alice-palhinha",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Alice (encosto com palhinha) - FAMOR",
+      "description": "Ficha Técnica Completa: Estrutura em Madeira Maciça Tauari, Encosto em Telinha d...",
+      "longDescription": "Ficha Técnica Completa: Estrutura em Madeira Maciça Tauari, Encosto em Telinha de Rattan Natural, Assento feito em Espuma de alta densidade D28 com Revestimento em Tecido com tratamento Hidrorrepelente protetor. Estilo sofisticado Contemporâneo / Natural Chic.",
+      "image": "/images/cadeiras/cadeira-alice-palhinha/img_5.webp",
+      "images": [
+        "/images/cadeiras/cadeira-alice-palhinha/img_1.jpg",
+        "/images/cadeiras/cadeira-alice-palhinha/img_2.jpg",
+        "/images/cadeiras/cadeira-alice-palhinha/img_3.jpg",
+        "/images/cadeiras/cadeira-alice-palhinha/img_4.webp",
+        "/images/cadeiras/cadeira-alice-palhinha/img_5.webp"
+      ],
+      "price": "R$ 580,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Alice - Famor",
+        "estrutura": "Madeira Maciça Tauari",
+        "encosto": "Telinha de Rattan Natural",
+        "assento": "Espuma Densidade D28",
+        "revestimento": "Tecido Hidrorrepelente",
+        "estilo": "Contemporâneo / Natural Chic",
+        "dimensoes": {
+          "altura": "0,92 m",
+          "largura": "0,45 m",
+          "profundidade": "0,52 m"
+        }
+      }
+    },
+    {
+      "id": "cadeira-classic",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Classic",
+      "description": "Design clássico e atemporal para qualquer ambiente.",
+      "longDescription": "A Cadeira Classic une tradição e conforto, com acabamento impecável e linhas elegantes que se adaptam a diversos estilos de decoração.",
+      "image": "/images/cadeiras/cadeira-classic/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-classic/img_1.webp",
+        "/images/cadeiras/cadeira-classic/img_2.webp",
+        "/images/cadeiras/cadeira-classic/img_3.webp",
+        "/images/cadeiras/cadeira-classic/img_4.webp"
+      ],
+      "price": "Sob Consulta"
+    },
+    {
+      "id": "cadeira-curitiba-plus",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Curitiba Plus",
+      "description": "Conforto plus com design moderno e refinado.",
+      "longDescription": "A Cadeira Curitiba Plus oferece assento estofado de alta densidade e encosto ergonômico, ideal para longas refeições em família.",
+      "image": "/images/cadeiras/cadeira-curitiba-plus/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-curitiba-plus/img_1.webp",
+        "/images/cadeiras/cadeira-curitiba-plus/img_2.webp",
+        "/images/cadeiras/cadeira-curitiba-plus/img_3.webp",
+        "/images/cadeiras/cadeira-curitiba-plus/img_4.webp",
+        "/images/cadeiras/cadeira-curitiba-plus/img_5.webp"
+      ],
+      "price": "Sob Consulta"
+    },
+    {
+      "id": "cadeira-dobravel-rattan",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Dobrável c/ rattan",
+      "description": "Diferenciais do Produto: Estrutura firme e durável, design dobrável para fácil a...",
+      "longDescription": "Diferenciais do Produto: Estrutura firme e durável, design dobrável para fácil armazenamento, acabamento natural em rattan. Leve, prática e versátil.",
+      "image": "/images/cadeiras/cadeira-dobravel-rattan/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-dobravel-rattan/img_1.webp",
+        "/images/cadeiras/cadeira-dobravel-rattan/img_2.webp",
+        "/images/cadeiras/cadeira-dobravel-rattan/img_3.webp",
+        "/images/cadeiras/cadeira-dobravel-rattan/img_4.webp"
+      ],
+      "price": "R$ 450,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Dobrável",
+        "estrutura": "Madeira",
+        "acabamento": "Rattan natural",
+        "caracteristicas": [
+          "Dobrável",
+          "Leve",
+          "Prática"
+        ]
+      }
+    },
+    {
+      "id": "cadeira-ilheus-plus",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Ilhéus Plus",
+      "description": "Estofamento premium com linhas contemporâneas.",
+      "longDescription": "A Cadeira Ilhéus Plus se destaca pelo estofamento generoso e design arrojado, proporcionando conforto e elegância para a sua mesa de jantar.",
+      "image": "/images/cadeiras/cadeira-ilheus-plus/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-ilheus-plus/img_1.webp",
+        "/images/cadeiras/cadeira-ilheus-plus/img_2.webp",
+        "/images/cadeiras/cadeira-ilheus-plus/img_3.webp",
+        "/images/cadeiras/cadeira-ilheus-plus/img_4.webp",
+        "/images/cadeiras/cadeira-ilheus-plus/img_5.webp"
+      ],
+      "price": "Sob Consulta"
+    },
+    {
+      "id": "cadeira-italia-plus",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Itália Plus - Poliester marrom",
+      "description": "Produzida com estrutura em madeira maciça de alta resistência, a cadeira passa p...",
+      "longDescription": "Produzida com estrutura em madeira maciça de alta resistência, a cadeira passa por um processo de tratamento completo, sendo 100% imunizada e seca em estufa, garantindo maior durabilidade.",
+      "image": "/images/cadeiras/cadeira-italia-plus/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-italia-plus/img_1.webp",
+        "/images/cadeiras/cadeira-italia-plus/img_2.webp"
+      ],
+      "price": "R$ 500,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Itália",
+        "revestimento": "Poliéster Marrom",
+        "estrutura": "Madeira maciça",
+        "dimensoes": {
+          "altura": "86 cm",
+          "largura": "47 cm",
+          "profundidade": "45 cm"
+        }
+      }
+    },
+    {
+      "id": "cadeira-liz-mel",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Liz Mel",
+      "description": "A Cadeira Liz Mel – Tela Lisa é a escolha perfeita para quem busca unir estética...",
+      "longDescription": "A Cadeira Liz Mel – Tela Lisa é a escolha perfeita para quem busca unir estética refinada e conforto no dia a dia. Com um design de linhas orgânicas e suaves, ela traz leveza visual ao ambiente, enquanto sua estrutura robusta garante durabilidade e estabilidade.",
+      "image": "/images/cadeiras/cadeira-liz-mel/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-liz-mel/img_1.webp",
+        "/images/cadeiras/cadeira-liz-mel/img_2.webp",
+        "/images/cadeiras/cadeira-liz-mel/img_3.webp",
+        "/images/cadeiras/cadeira-liz-mel/img_4.webp",
+        "/images/cadeiras/cadeira-liz-mel/img_5.webp",
+        "/images/cadeiras/cadeira-liz-mel/img_6.webp"
+      ],
+      "price": "R$ 640,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Liz (Tela Lisa)",
+        "estilo": "Linhas orgânicas e suaves",
+        "dimensoes": {
+          "altura": "90 cm",
+          "largura": "42 cm",
+          "profundidade": "48 cm"
+        }
+      }
+    },
+    {
+      "id": "cadeira-maragogi-plus",
+      "categoryId": "cadeiras",
+      "title": "Cadeira maragogi Plus",
+      "description": "Produzida com estrutura em madeira maciça de alta resistência, a cadeira passa p...",
+      "longDescription": "Produzida com estrutura em madeira maciça de alta resistência, a cadeira passa por um rigoroso processo de tratamento, sendo 100% imunizada e seca em estufa, garantindo maior estabilidade, durabilidade e proteção contra pragas e umidade.",
+      "image": "/images/cadeiras/cadeira-maragogi-plus/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-maragogi-plus/img_1.webp",
+        "/images/cadeiras/cadeira-maragogi-plus/img_2.webp",
+        "/images/cadeiras/cadeira-maragogi-plus/img_3.webp",
+        "/images/cadeiras/cadeira-maragogi-plus/img_4.webp",
+        "/images/cadeiras/cadeira-maragogi-plus/img_5.webp",
+        "/images/cadeiras/cadeira-maragogi-plus/img_6.webp",
+        "/images/cadeiras/cadeira-maragogi-plus/img_7.webp"
+      ],
+      "price": "R$ 450,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Maragogi Plus",
+        "estrutura": "Madeira maciça de alta resistência",
+        "tratamento": "100% imunizada e seca em estufa",
+        "dimensoes": {
+          "altura": "90 cm",
+          "largura": "45 cm",
+          "profundidade": "50 cm"
+        }
+      }
+    },
+    {
+      "id": "cadeira-perola-bronze",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Pérola Bronze ou Linho",
+      "description": "Transforme seu ambiente com a elegância da Cadeira Pérola B.",
+      "longDescription": "Transforme seu ambiente com a elegância da Cadeira Pérola B. Bronze, uma peça que combina design sofisticado, conforto e resistência para compor espaços modernos e aconchegantes.",
+      "image": "/images/cadeiras/cadeira-perola-bronze/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-perola-bronze/img_1.webp",
+        "/images/cadeiras/cadeira-perola-bronze/img_2.webp",
+        "/images/cadeiras/cadeira-perola-bronze/img_3.webp",
+        "/images/cadeiras/cadeira-perola-bronze/img_4.webp",
+        "/images/cadeiras/cadeira-perola-bronze/img_5.webp",
+        "/images/cadeiras/cadeira-perola-bronze/img_6.webp"
+      ],
+      "price": "R$ 600,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Pérola",
+        "opcoes_acabamento": [
+          "Bronze",
+          "Linho"
+        ],
+        "dimensoes": {
+          "altura": "0,80 m",
+          "largura": "0,58 m",
+          "profundidade": "0,60 m"
+        },
+        "detalhes": "Design moderno com acabamento na cor bronze, estrutura resistente e durável"
+      }
+    },
+    {
+      "id": "cadeira-safira",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Safira",
+      "description": "Destaques do Produto: Estrutura em metal de alta resistência, design moderno e v...",
+      "longDescription": "Destaques do Produto: Estrutura em metal de alta resistência, design moderno e versátil. Ideal para salas de jantar, cozinhas, áreas gourmet ou estabelecimentos comerciais.",
+      "image": "/images/cadeiras/cadeira-safira/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeira-safira/img_1.webp",
+        "/images/cadeiras/cadeira-safira/img_2.webp",
+        "/images/cadeiras/cadeira-safira/img_3.webp",
+        "/images/cadeiras/cadeira-safira/img_4.webp",
+        "/images/cadeiras/cadeira-safira/img_5.webp",
+        "/images/cadeiras/cadeira-safira/img_6.webp",
+        "/images/cadeiras/cadeira-safira/img_7.webp",
+        "/images/cadeiras/cadeira-safira/img_8.webp"
+      ],
+      "price": "R$ 450,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Safira",
+        "estrutura": "Metal de alta resistência",
+        "estilo": "Moderno e versátil",
+        "dimensoes": {
+          "altura": "78 cm",
+          "largura": "47 cm",
+          "profundidade": "50 cm"
+        }
+      }
+    },
+    {
+      "id": "cadeiras-siena-pop",
+      "categoryId": "cadeiras",
+      "title": "Cadeira Pop",
+      "description": "Cadeira industrial compacta estofada.",
+      "longDescription": "Cadeira industrial compacta estofada.",
+      "image": "/images/cadeiras/cadeiras-siena-pop/img_1.webp",
+      "images": [
+        "/images/cadeiras/cadeiras-siena-pop/img_1.webp",
+        "/images/cadeiras/cadeiras-siena-pop/img_2.webp",
+        "/images/cadeiras/cadeiras-siena-pop/img_3.webp",
+        "/images/cadeiras/cadeiras-siena-pop/img_4.webp",
+        "/images/cadeiras/cadeiras-siena-pop/img_5.webp"
+      ],
+      "price": "R$ 380,00",
+      "especificacoes_mesa": null,
+      "especificacoes_cadeira": {
+        "modelo": "Siena",
+        "opcoes_tecido": [
+          "Linho Bege",
+          "Courino"
+        ],
+        "dimensoes": {
+          "altura": "78 cm",
+          "largura": "56 cm",
+          "profundidade": "48 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-jantar-06-cadeiras",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Rubi tp vidro 1.35M c/ 06 cadeiras verona",
+      "description": "Conjunto com mesa robusta Rubi, tampo de vidro amplo e cadeiras Verona de encost...",
+      "longDescription": "Conjunto com mesa robusta Rubi, tampo de vidro amplo e cadeiras Verona de encosto alto.",
+      "image": "/images/Mesas/mesa-06-cadeiras/img_2108.jpg",
+      "images": [
+        "/images/Mesas/mesa-06-cadeiras/img_2108.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2109.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2110.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2111.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2112.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2113.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2114.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2115.jpg",
+        "/images/Mesas/mesa-06-cadeiras/img_2116.jpg"
+      ],
+      "price": "R$ 4.580,00",
+      "especificacoes_mesa": {
+        "modelo": "Rubi",
+        "altura": "0,75 m",
+        "largura": "1,36 m",
+        "profundidade": "1,36 m"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Verona",
+        "quantidade": 6,
+        "dimensoes": {
+          "altura": "1,02 m",
+          "largura": "0,47 m",
+          "profundidade": "0,52 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-barcelona",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Barcelona 2,20x1,10m",
+      "description": "Mesa Barcelona 2,20 x 1,00 com Base Ripada em Madeira Imbuia Mel e Tampo Off Whi...",
+      "longDescription": "Mesa Barcelona 2,20 x 1,00 com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro Laqueado",
+      "image": "/images/Mesas/mesa-barcelona/whatsapp-image-2026-05-09-at-10.35.24.jpeg",
+      "images": [
+        "/images/Mesas/mesa-barcelona/whatsapp-image-2026-05-09-at-10.35.24.jpeg",
+        "/images/Mesas/mesa-barcelona/1.890.jpeg",
+        "/images/Mesas/mesa-barcelona/2.450.jpeg",
+        "/images/Mesas/mesa-barcelona/whatsapp-image-2026-05-09-at-10.35.24-1.jpeg",
+        "/images/Mesas/mesa-barcelona/whatsapp-image-2026-05-09-at-10.35.24-2.jpeg",
+        "/images/Mesas/mesa-barcelona/whatsapp-image-2026-05-09-at-10.35.24-3.jpeg",
+        "/images/Mesas/mesa-barcelona/whatsapp-image-2026-05-09-at-10.35.24-4.jpeg"
+      ],
+      "price": "R$ 2.450,00",
+      "especificacoes_mesa": {
+        "modelo": "Barcelona",
+        "medidas": "2,20x1,00m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White",
+        "estilo": "Moderno contemporâneo",
+        "capacidade": "Até 8 lugares"
+      },
+      "especificacoes_cadeira": null
+    },
+    {
+      "id": "mesa-barcelona-viena",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Barcelona 2,20x1,00 c/ 08 cadeiras Viena",
+      "description": "Mesa Barcelona com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro ...",
+      "longDescription": "Mesa Barcelona com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro Laqueado. Estilo sofisticado com 8 cadeiras de alto padrão.",
+      "image": "/images/Mesas/mesa-barcelona-viena/img_1.jpeg",
+      "images": [
+        "/images/Mesas/mesa-barcelona-viena/img_1.jpeg",
+        "/images/Mesas/mesa-barcelona-viena/img_2.jpeg",
+        "/images/Mesas/mesa-barcelona-viena/img_3.jpeg",
+        "/images/Mesas/mesa-barcelona-viena/video_1.mp4"
+      ],
+      "price": "R$ 7.599,99",
+      "especificacoes_mesa": {
+        "modelo": "Barcelona",
+        "medidas": "2,20x1,00m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White",
+        "estilo": "Moderno contemporâneo"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Viena",
+        "quantidade": 8
+      }
+    },
+    {
+      "id": "mesa-denver",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Denver 2,70x1,00 c/ 10 cadeiras Liz",
+      "description": "A Mesa Denver 2,70 x 1,10 m com 10 Cadeiras Liz Mel Tela Lisa é um conjunto impo...",
+      "longDescription": "A Mesa Denver 2,70 x 1,10 m com 10 Cadeiras Liz Mel Tela Lisa é um conjunto imponente, sofisticado e funcional, perfeito para compor salas de jantar amplas, espaços gourmet e ambientes integrados com elegância. As Cadeiras Liz Mel Tela Lisa apresentam design refinado, com linhas orgânicas e suaves.",
+      "image": "/images/Mesas/mesa-denver/whatsapp-image-2026-05-09-at-10.35.23.jpeg",
+      "images": [
+        "/images/Mesas/mesa-denver/whatsapp-image-2026-05-09-at-10.35.23.jpeg",
+        "/images/Mesas/mesa-denver/3.60000.jpeg",
+        "/images/Mesas/mesa-denver/950000.jpeg",
+        "/images/Mesas/mesa-denver/whatsapp-image-2026-05-09-at-10.35.22.jpeg",
+        "/images/Mesas/mesa-denver/whatsapp-image-2026-05-09-at-10.35.22-3.jpeg",
+        "/images/Mesas/mesa-denver/whatsapp-image-2026-05-09-at-10.35.23-1.jpeg",
+        "/images/Mesas/mesa-denver/whatsapp-video-2026-05-07-at-09.03.17.mp4"
+      ],
+      "price": "R$ 8.499,99",
+      "especificacoes_mesa": {
+        "modelo": "Denver",
+        "altura": "78 cm",
+        "largura": "270 cm",
+        "profundidade": "110 cm",
+        "material_tampo": "MDF 15 mm laminado",
+        "estrutura_pes": "Madeira maciça",
+        "cor": "Mel",
+        "capacidade": "8 a 10 lugares"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Liz",
+        "quantidade": 10,
+        "dimensoes": {
+          "altura": "90 cm",
+          "largura": "42 cm",
+          "profundidade": "48 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-jantar-cascata",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Cascata 2,20x1,10 com 06 Pérola no courino",
+      "description": "Design moderno e imponente.",
+      "longDescription": "Design moderno e imponente. Base estilo cascata ripada em madeira maciça de alta resistência. Tampo de vidro que valoriza o ambiente. Perfeita para quem busca luxo e exclusividade!",
+      "image": "/images/Mesas/mesa-jantar-cascata/img_1914.jpg",
+      "images": [
+        "/images/Mesas/mesa-jantar-cascata/img_1914.jpg",
+        "/images/Mesas/mesa-jantar-cascata/img_1915.jpg",
+        "/images/Mesas/mesa-jantar-cascata/img_1916.jpg"
+      ],
+      "price": "R$ 7.199,99",
+      "especificacoes_mesa": {
+        "modelo": "Cascata",
+        "tampo": "Vidro",
+        "dimensoes": "2,20 x 1,10 m",
+        "base": "Estilo cascata ripada em madeira maciça"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Pérola",
+        "quantidade": 6,
+        "revestimento": "Courino",
+        "estrutura": "Resistente e durável com acabamento na cor bronze",
+        "dimensoes": {
+          "altura": "0,80 m",
+          "largura": "0,58 m",
+          "profundidade": "0,60 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-jade",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Jade 1,60x90 com 06 cadeiras Costa Rica",
+      "description": "Mesa Jade com tampo em Vidro: moderno, resistente e de fácil limpeza.",
+      "longDescription": "Mesa Jade com tampo em Vidro: moderno, resistente e de fácil limpeza. Pés em Madeira: estrutura firme e elegante.",
+      "image": "/images/Mesas/mesa-jade/inshot_20250520_102032887_original.jpg",
+      "images": [
+        "/images/Mesas/mesa-jade/inshot_20250520_102032887_original.jpg"
+      ],
+      "price": "R$ 5.199,00",
+      "especificacoes_mesa": {
+        "modelo": "Jade",
+        "tampo": "Vidro",
+        "pes": "Madeira",
+        "dimensoes": "1,60m (C) x 0,80m (L)",
+        "capacidade": "Até 6 lugares"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Costa Rica",
+        "quantidade": 6,
+        "estrutura": "Madeira de Eucalipto",
+        "dimensoes": {
+          "altura": "0,80 m",
+          "largura": "0,57 m",
+          "profundidade": "0,55 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-jantar",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Clássica",
+      "description": "Design elegante para sua sala de jantar.",
+      "longDescription": "Mesa de jantar de altíssimo padrão com design clássico, ideal para complementar um ambiente sofisticado e acolhedor.",
+      "image": "/images/Mesas/mesa-jantar/img_2096.jpg",
+      "images": [
+        "/images/Mesas/mesa-jantar/img_2096.jpg",
+        "/images/Mesas/mesa-jantar/img_2097.jpg"
+      ],
+      "price": "Sob Consulta"
+    },
+    {
+      "id": "mesa-jasmim-helena",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Jasmin e Cadeiras Helena",
+      "description": "Produto em promoção.",
+      "longDescription": "Produto em promoção. Estilo moderno contemporâneo.",
+      "image": "/images/Mesas/mesa-jasmim-helena/whatsapp-image-2026-05-09-at-10.35.25.jpeg",
+      "images": [
+        "/images/Mesas/mesa-jasmim-helena/whatsapp-image-2026-05-09-at-10.35.25.jpeg",
+        "/images/Mesas/mesa-jasmim-helena/1.750.jpeg",
+        "/images/Mesas/mesa-jasmim-helena/1100.jpeg",
+        "/images/Mesas/mesa-jasmim-helena/1500.jpeg",
+        "/images/Mesas/mesa-jasmim-helena/250.jpeg",
+        "/images/Mesas/mesa-jasmim-helena/whatsapp-image-2026-05-09-at-10.35.24-6.jpeg",
+        "/images/Mesas/mesa-jasmim-helena/whatsapp-image-2026-05-09-at-10.35.25-1.jpeg",
+        "/images/Mesas/mesa-jasmim-helena/whatsapp-image-2026-05-09-at-10.35.25-2.jpeg"
+      ],
+      "price": "R$ 1.750,00",
+      "especificacoes_mesa": {
+        "modelo": "Jasmin",
+        "medidas": "1,20m x 0,80m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeiras Helena",
+        "quantidade": 4,
+        "estrutura": "Madeira",
+        "uso_indicado": "Ambientes internos",
+        "dimensoes": {
+          "altura": "98 cm",
+          "largura": "44 cm",
+          "profundidade": "54 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-jasmim-lola",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Jasmin c/ 04 cadeiras Lola",
+      "description": "Conjunto de jantar compacto indicado para ambientes internos.",
+      "longDescription": "Conjunto de jantar compacto indicado para ambientes internos.",
+      "image": "/images/Mesas/mesa-jasmim-lola/img-20250412-wa0121_original.jpg",
+      "images": [
+        "/images/Mesas/mesa-jasmim-lola/img-20250412-wa0121_original.jpg",
+        "/images/Mesas/mesa-jasmim-lola/img-20250414-wa0154_original.jpg",
+        "/images/Mesas/mesa-jasmim-lola/img-20250418-wa0060_original.jpg"
+      ],
+      "price": "R$ 2.549,00",
+      "especificacoes_mesa": {
+        "modelo": "Jasmin",
+        "comprimento": "1,20 m",
+        "largura": "0,80 m",
+        "altura": "0,78 m",
+        "base": "Madeira padrão Imbuia Mel"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Lola",
+        "quantidade": 4,
+        "estrutura": "Madeira",
+        "dimensoes": {
+          "altura": "0,93 m",
+          "largura": "0,45 m",
+          "profundidade": "0,56 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-jasmim-120",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Jasmin com 04 cadeiras Emily, Olga, Classic, Ilheus ou Curitiba",
+      "description": "Estilo moderno contemporâneo.",
+      "longDescription": "Estilo moderno contemporâneo. Permite escolha de variação de cadeiras.",
+      "image": "/images/Mesas/mesa-jasmim-120/img_12.jpg",
+      "images": [
+        "/images/Mesas/mesa-jasmim-120/img_1.webp",
+        "/images/Mesas/mesa-jasmim-120/img_2.webp",
+        "/images/Mesas/mesa-jasmim-120/img_3.webp",
+        "/images/Mesas/mesa-jasmim-120/img_4.webp",
+        "/images/Mesas/mesa-jasmim-120/img_5.webp",
+        "/images/Mesas/mesa-jasmim-120/img_6.webp",
+        "/images/Mesas/mesa-jasmim-120/img_7.webp",
+        "/images/Mesas/mesa-jasmim-120/img_8.webp",
+        "/images/Mesas/mesa-jasmim-120/img_9.webp",
+        "/images/Mesas/mesa-jasmim-120/img_10.webp",
+        "/images/Mesas/mesa-jasmim-120/img_11.webp",
+        "/images/Mesas/mesa-jasmim-120/img_12.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_13.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_14.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_15.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_16.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_17.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_18.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_19.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_20.jpg",
+        "/images/Mesas/mesa-jasmim-120/img_21.jpg"
+      ],
+      "price": "R$ 1.829,00",
+      "especificacoes_mesa": {
+        "modelo": "Jasmin",
+        "medidas": "1,20m x 0,80m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White"
+      },
+      "especificacoes_cadeira": {
+        "quantidade": 4,
+        "modelos_disponiveis": [
+          "Emily",
+          "Olga",
+          "Classic",
+          "Ilheus",
+          "Curitiba"
+        ],
+        "estrutura": "Madeira",
+        "uso_indicado": "Ambientes internos"
+      }
+    },
+    {
+      "id": "mesa-oval-rubi",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Oval Aura 2,20x1,10 com 06 cadeiras Siena",
+      "description": "Mesa de Jantar Aura – Tampo Laminado com Base cilíndrica Madeira Maciça.",
+      "longDescription": "Mesa de Jantar Aura – Tampo Laminado com Base cilíndrica Madeira Maciça. Diferenciais: Madeira tratada, imunizada e seca em estufa; Acabamento envernizado; Tampo laminado resistente.",
+      "image": "/images/Mesas/mesa-oval-rubi/img_2109.jpg",
+      "images": [
+        "/images/Mesas/mesa-oval-rubi/img_2109.jpg",
+        "/images/Mesas/mesa-oval-rubi/conjunto-6399.jpg",
+        "/images/Mesas/mesa-oval-rubi/img_2110.jpg",
+        "/images/Mesas/mesa-oval-rubi/img_2111.jpg",
+        "/images/Mesas/mesa-oval-rubi/img_2112.jpg",
+        "/images/Mesas/mesa-oval-rubi/img_2113.jpg",
+        "/images/Mesas/mesa-oval-rubi/img_2114.jpg",
+        "/images/Mesas/mesa-oval-rubi/img_2115.jpg",
+        "/images/Mesas/mesa-oval-rubi/img_2116.jpg"
+      ],
+      "price": "R$ 5.900,00",
+      "especificacoes_mesa": {
+        "modelo": "Aura",
+        "formato": "Oval",
+        "medidas": "2,20 x 1,10m",
+        "base": "Cilíndrica Madeira Maciça",
+        "tampo": "Laminado"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Siena",
+        "quantidade": 6,
+        "estrutura": "Ferro",
+        "tecido": "Courino"
+      }
+    },
+    {
+      "id": "mesa-redonda-fenix",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Fênix redonda 1,20m",
+      "description": "Mesa Fênix de Diâmetro com Base em Madeira Imbuia Mel e Tampo Off White em Vidro...",
+      "longDescription": "Mesa Fênix de Diâmetro com Base em Madeira Imbuia Mel e Tampo Off White em Vidro Laqueado. Estilo moderno contemporâneo.",
+      "image": "/images/Mesas/mesa-redonda-fenix/img_4.jpg",
+      "images": [
+        "/images/Mesas/mesa-redonda-fenix/img_4.jpg",
+        "/images/Mesas/mesa-redonda-fenix/img_1.jpg",
+        "/images/Mesas/mesa-redonda-fenix/img_2.jpg",
+        "/images/Mesas/mesa-redonda-fenix/img_3.jpg"
+      ],
+      "price": "R$ 1.599,99",
+      "especificacoes_mesa": {
+        "modelo": "Fênix",
+        "medida": "1,20m de diâmetro",
+        "formato": "Redondo",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White",
+        "capacidade": "Até 4 lugares"
+      },
+      "especificacoes_cadeira": null
+    },
+    {
+      "id": "mesa-safira",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Safira c/ vidro e 04 cadeiras Mad3279",
+      "description": "Características do Conjunto: Mesa tampo MDF com vidro, Pés de madeira maciça.",
+      "longDescription": "Características do Conjunto: Mesa tampo MDF com vidro, Pés de madeira maciça.",
+      "image": "/images/Mesas/mesa-safira/screenshot_2026-02-06-10-32-43-075_com.whatsapp.w4b-edit_original.jpg",
+      "images": [
+        "/images/Mesas/mesa-safira/screenshot_2026-02-06-10-32-43-075_com.whatsapp.w4b-edit_original.jpg",
+        "/images/Mesas/mesa-safira/screenshot_2026-02-06-10-33-14-707_com.whatsapp.w4b-edit_original.jpg",
+        "/images/Mesas/mesa-safira/screenshot_2026-02-06-10-33-38-560_com.whatsapp.w4b-edit_original.jpg"
+      ],
+      "price": "R$ 2.399,99",
+      "especificacoes_mesa": {
+        "modelo": "Safira",
+        "altura": "0,80 m",
+        "largura": "1,36 m",
+        "profundidade": "0,90 m"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Mad3279",
+        "quantidade": 4,
+        "dimensoes": {
+          "altura": "0,93 m",
+          "largura": "0,46 m",
+          "profundidade": "0,51 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-jantar-rubi",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Rubi Redonda 1,20 c/ 04 cadeiras Siena",
+      "description": "Conjunto moderno com base industrial e tampo sofisticado.",
+      "longDescription": "Conjunto moderno com base industrial e tampo sofisticado.",
+      "image": "/images/Mesas/mesa-jantar-rubi/img_2101.jpg",
+      "images": [
+        "/images/Mesas/mesa-jantar-rubi/img_2101.jpg",
+        "/images/Mesas/mesa-jantar-rubi/img_2102.jpg",
+        "/images/Mesas/mesa-jantar-rubi/img_2103.jpg",
+        "/images/Mesas/mesa-jantar-rubi/img_2104.jpg",
+        "/images/Mesas/mesa-jantar-rubi/img_2105.jpg",
+        "/images/Mesas/mesa-jantar-rubi/img_2106.jpg",
+        "/images/Mesas/mesa-jantar-rubi/img_2107.jpg"
+      ],
+      "price": "R$ 2.999,99",
+      "especificacoes_mesa": {
+        "modelo": "Rubi",
+        "altura": "0,80 m",
+        "largura": "1,20 m",
+        "profundidade": "1,20 m",
+        "tampo": "Vidro laqueado Off White",
+        "base": "Ferro"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Siena",
+        "quantidade": 4,
+        "estrutura": "Ferro",
+        "tecido": "Courino"
+      }
+    },
+    {
+      "id": "mesa-alegra",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Allegra c/ 04 cadeiras",
+      "description": "Transforme sua sala de jantar com a Mesa Allegra, um conjunto que combina design...",
+      "longDescription": "Transforme sua sala de jantar com a Mesa Allegra, um conjunto que combina design sofisticado e funcionalidade para criar um ambiente acolhedor e cheio de charme. Base em madeira robusta: durabilidade e resistência. Tampo em vidro: traz sofisticação e facilita a limpeza.",
+      "image": "/images/Mesas/mesa-alegra/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-alegra/img_1.png",
+        "/images/Mesas/mesa-alegra/img_2.png",
+        "/images/Mesas/mesa-alegra/img_3.png"
+      ],
+      "price": "R$ 1.829,00",
+      "especificacoes_mesa": {
+        "modelo": "Allegra",
+        "altura": "0,78 m",
+        "largura": "1,20 m",
+        "profundidade": "0,80 m",
+        "base": "Madeira robusta",
+        "tampo": "Vidro"
+      },
+      "especificacoes_cadeira": {
+        "quantidade": 4,
+        "modelos_disponiveis": [
+          "Georgia",
+          "Emilly"
+        ],
+        "detalhes": "Cadeiras almofadas de alto conforto"
+      }
+    },
+    {
+      "id": "mesa-cone-liz",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Malva redonda 1,20 c/ 04 cadeiras Liz",
+      "description": "Transforme seus momentos à mesa em experiências únicas de elegância e conforto.",
+      "longDescription": "Transforme seus momentos à mesa em experiências únicas de elegância e conforto! A Mesa Malva traz design sofisticado com tampo laminado de 1,20m e base cone, que garante estabilidade e charme contemporâneo.",
+      "image": "/images/Mesas/mesa-cone-liz/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-cone-liz/img_1.png",
+        "/images/Mesas/mesa-cone-liz/img_2.png",
+        "/images/Mesas/mesa-cone-liz/img_3.png",
+        "/images/Mesas/mesa-cone-liz/img_4.png"
+      ],
+      "price": "R$ 3.699,99",
+      "especificacoes_mesa": {
+        "formato": "Redondo",
+        "medida": "1,20m de diâmetro",
+        "tampo": "Laminado",
+        "base": "Cone"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Liz",
+        "quantidade": 4,
+        "dimensoes": {
+          "altura": "90 cm",
+          "largura": "42 cm",
+          "profundidade": "48 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-jantar-cascata-oval",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Ilhabela tampo oval laminado 2,20x1,10",
+      "description": "Mesa de Jantar Ilhabela 2,20 x 1,10 – Tampo Laminado com Base Ripada em Madeira ...",
+      "longDescription": "Mesa de Jantar Ilhabela 2,20 x 1,10 – Tampo Laminado com Base Ripada em Madeira Maciça. Diferenciais: Base ripada em madeira maciça de alta resistência; Madeira tratada, imunizada e seca em estufa; Acabamento envernizado que valoriza os veios naturais da madeira; Tampo laminado resistente e de fácil limpeza; Design sofisticado.",
+      "image": "/images/Mesas/mesa-jantar-cascata-oval/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-jantar-cascata-oval/img_1.png",
+        "/images/Mesas/mesa-jantar-cascata-oval/img_2.png",
+        "/images/Mesas/mesa-jantar-cascata-oval/img_3.png",
+        "/images/Mesas/mesa-jantar-cascata-oval/img_4.png",
+        "/images/Mesas/mesa-jantar-cascata-oval/img_5.png",
+        "/images/Mesas/mesa-jantar-cascata-oval/img_6.png"
+      ],
+      "price": "R$ 3.399,99",
+      "especificacoes_mesa": {
+        "medidas": "2,20 x 1,10m",
+        "formato": "Oval",
+        "tampo": "Laminado",
+        "base": "Ripada em Madeira Maciça"
+      },
+      "especificacoes_cadeira": null
+    },
+    {
+      "id": "mesa-rubi-redonda-perola",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Siena redonda 1,35mt c/ 04 cadeiras pérola - linho ou courino",
+      "description": "Transforme sua sala de jantar com o Conjunto Mesa Siena Redonda 1,35m + 4 Cadeir...",
+      "longDescription": "Transforme sua sala de jantar com o Conjunto Mesa Siena Redonda 1,35m + 4 Cadeiras Pérola, perfeito para quem busca sofisticação, conforto e funcionalidade no dia a dia.",
+      "image": "/images/Mesas/mesa-rubi-redonda-perola/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-rubi-redonda-perola/img_1.png",
+        "/images/Mesas/mesa-rubi-redonda-perola/img_2.png",
+        "/images/Mesas/mesa-rubi-redonda-perola/img_3.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola/img_4.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola/img_5.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola/img_6.jpg"
+      ],
+      "price": "R$ 3.399,00",
+      "especificacoes_mesa": {
+        "modelo": "Siena",
+        "formato": "Redondo",
+        "altura": "0,78 m",
+        "largura": "1,35 m",
+        "profundidade": "1,35 m",
+        "base": "Metálica"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Pérola",
+        "quantidade": 4,
+        "opcoes_tecido": [
+          "Linho",
+          "Courino"
+        ],
+        "dimensoes": {
+          "altura": "0,80 m",
+          "largura": "0,58 m",
+          "profundidade": "0,60 m"
+        },
+        "detalhes": "Design moderno com acabamento na cor bronze, estrutura resistente e durável"
+      }
+    },
+    {
+      "id": "mesa-siera-ilheus",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Siera 1,30m tampo mdf c/ vidro com 4 cadeiras ilheus",
+      "description": "Estilo moderno contemporâneo.",
+      "longDescription": "Estilo moderno contemporâneo. Nota: O catálogo original associa internamente à ficha da Mesa Roma.",
+      "image": "/images/Mesas/mesa-siera-ilheus/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-siera-ilheus/img_1.png",
+        "/images/Mesas/mesa-siera-ilheus/img_2.png",
+        "/images/Mesas/mesa-siera-ilheus/img_3.png",
+        "/images/Mesas/mesa-siera-ilheus/img_4.png"
+      ],
+      "price": "R$ 1.850,00",
+      "especificacoes_mesa": {
+        "modelo": "Roma",
+        "medidas": "1,30m x 0,90m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeiras Ilheus",
+        "quantidade": 4,
+        "estrutura": "Madeira",
+        "uso_indicado": "Ambientes internos",
+        "dimensoes": {
+          "altura": "96 cm",
+          "largura": "48 cm",
+          "profundidade": "62 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-alice-4-cadeiras",
+      "categoryId": "mesas",
+      "title": "Conjunto mesa Alice c/ 04 cadeiras",
+      "description": "Conjunto compacto e elegante para cozinhas ou salas integradas.",
+      "longDescription": "Conjunto compacto e elegante para cozinhas ou salas integradas.",
+      "image": "/images/Mesas/mesa-alice-4-cadeiras/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-alice-4-cadeiras/img_1.png"
+      ],
+      "price": "R$ 940,00",
+      "especificacoes_mesa": {
+        "modelo": "Alice",
+        "altura": "78 cm",
+        "largura": "90 cm",
+        "profundidade": "90 cm"
+      },
+      "especificacoes_cadeira": {
+        "quantidade": 4
+      }
+    },
+    {
+      "id": "mesa-malva-4-cadeiras-madeira",
+      "categoryId": "mesas",
+      "title": "Conjunto mesa Malva c/ 04 cadeiras - Tampo de madeira",
+      "description": "Versão clássica com tampo amadeirado.",
+      "longDescription": "Versão clássica com tampo amadeirado.",
+      "image": "/images/Mesas/mesa-malva-4-cadeiras-madeira/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-malva-4-cadeiras-madeira/img_1.png"
+      ],
+      "price": "R$ 1.320,00",
+      "especificacoes_mesa": {
+        "modelo": "Malva",
+        "altura": "0,75 m",
+        "largura": "1,07 m",
+        "profundidade": "0,73 m"
+      },
+      "especificacoes_cadeira": {
+        "quantidade": 4
+      }
+    },
+    {
+      "id": "mesa-malva-tampo-vidro",
+      "categoryId": "mesas",
+      "title": "Conjunto mesa Malva c/ 06 cadeiras - Tampo de vidro",
+      "description": "Versão expandida para 6 lugares com tampo de vidro sofisticado.",
+      "longDescription": "Versão expandida para 6 lugares com tampo de vidro sofisticado.",
+      "image": "/images/Mesas/mesa-malva-tampo-vidro/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-malva-tampo-vidro/img_1.png",
+        "/images/Mesas/mesa-malva-tampo-vidro/img_2.png"
+      ],
+      "price": "R$ 1.680,00",
+      "especificacoes_mesa": {
+        "modelo": "Malva",
+        "altura": "0,75 m",
+        "largura": "1,40 m",
+        "profundidade": "0,80 m"
+      },
+      "especificacoes_cadeira": {
+        "quantidade": 6
+      }
+    },
+    {
+      "id": "mesa-rubi-organica-perola",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Siena orgânica 1,35mt c/ 04 cadeiras pérola - linho ou courino",
+      "description": "Transforme sua sala de jantar com o Conjunto Mesa Siena Orgânica 1,35m + 4 Cadei...",
+      "longDescription": "Transforme sua sala de jantar com o Conjunto Mesa Siena Orgânica 1,35m + 4 Cadeiras Pérola, perfeito para quem busca sofisticação, conforto e funcionalidade no dia a dia.",
+      "image": "/images/Mesas/mesa-rubi-organica-perola/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-rubi-organica-perola/img_1.jpg",
+        "/images/Mesas/mesa-rubi-organica-perola/img_2.jpg",
+        "/images/Mesas/mesa-rubi-organica-perola/img_3.jpg",
+        "/images/Mesas/mesa-rubi-organica-perola/img_4.jpg",
+        "/images/Mesas/mesa-rubi-organica-perola/img_5.jpg",
+        "/images/Mesas/mesa-rubi-organica-perola/img_6.mp4"
+      ],
+      "price": "R$ 3.399,00",
+      "especificacoes_mesa": {
+        "modelo": "Siena",
+        "formato": "Orgânico",
+        "altura": "0,78 m",
+        "largura": "1,35 m",
+        "profundidade": "1,35 m",
+        "base": "Metálica"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Pérola",
+        "quantidade": 4,
+        "opcoes_tecido": [
+          "Linho",
+          "Courino"
+        ],
+        "dimensoes": {
+          "altura": "0,80 m",
+          "largura": "0,58 m",
+          "profundidade": "0,60 m"
+        },
+        "detalhes": "Design moderno com acabamento na cor bronze, estrutura resistente e durável"
+      }
+    },
+    {
+      "id": "mesa-rubi-redonda-perola-6-cadeiras",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Siena redonda 1,50mt c/ 06 cadeiras Pérola - Linho ou courino",
+      "description": "Transforme sua sala de jantar com o Conjunto Mesa Siena Redonda 1,50m + 6 Cadeir...",
+      "longDescription": "Transforme sua sala de jantar com o Conjunto Mesa Siena Redonda 1,50m + 6 Cadeiras Pérola, perfeito para quem busca sofisticação, conforto e funcionalidade no dia a dia.",
+      "image": "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_1.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_2.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_3.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_4.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_5.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_6.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_7.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_8.jpg",
+        "/images/Mesas/mesa-rubi-redonda-perola-6-cadeiras/img_9.jpg"
+      ],
+      "price": "R$ 4.500,00",
+      "especificacoes_mesa": {
+        "modelo": "Siena",
+        "formato": "Redondo",
+        "altura": "0,78 m",
+        "largura": "1,50 m",
+        "profundidade": "1,50 m",
+        "base": "Metálica"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Pérola",
+        "quantidade": 6,
+        "opcoes_tecido": [
+          "Linho",
+          "Courino"
+        ],
+        "dimensoes": {
+          "altura": "0,80 m",
+          "largura": "0,58 m",
+          "profundidade": "0,60 m"
+        },
+        "detalhes": "Design moderno com acabamento na cor bronze, estrutura resistente e durável"
+      }
+    },
+    {
+      "id": "mesa-ametista-tampo-vidro",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Ametista tp c/vidro 1.36m c/ 04 cadeiras Ametista",
+      "description": "Mesa com requintados pés de madeira e tampo em MDF revestido com vidro de fácil ...",
+      "longDescription": "Mesa com requintados pés de madeira e tampo em MDF revestido com vidro de fácil limpeza.",
+      "image": "/images/Mesas/mesa-ametista-tampo-vidro/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-ametista-tampo-vidro/img_1.png"
+      ],
+      "price": "R$ 2.399,00",
+      "especificacoes_mesa": {
+        "modelo": "Ametista",
+        "altura": "0,80 m",
+        "largura": "1,36 m",
+        "profundidade": "0,90 m",
+        "pes": "Madeira",
+        "tampo": "MDF with vidro"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Ametista",
+        "quantidade": 4,
+        "dimensoes": {
+          "altura": "0,92 m",
+          "largura": "0,45 m",
+          "profundidade": "0,52 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-jasmim-itaipava",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Jasmin 1,20m x 0,80m com 4 Cadeiras Itaipava",
+      "description": "Conjunto ideal para ambientes internos com excelente acabamento em madeira.",
+      "longDescription": "Conjunto ideal para ambientes internos com excelente acabamento em madeira.",
+      "image": "/images/Mesas/mesa-jasmim-itaipava/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-jasmim-itaipava/img_1.jpg",
+        "/images/Mesas/mesa-jasmim-itaipava/img_2.jpg",
+        "/images/Mesas/mesa-jasmim-itaipava/img_3.jpg"
+      ],
+      "price": "R$ 2.599,00",
+      "especificacoes_mesa": {
+        "modelo": "Jasmin",
+        "comprimento": "1,20 m",
+        "largura": "0,80 m",
+        "altura": "0,78 m"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Itaipava",
+        "quantidade": 4,
+        "estrutura": "Madeira",
+        "uso_indicado": "Ambientes internos",
+        "dimensoes": {
+          "altura": "90 cm",
+          "largura": "45 cm",
+          "profundidade": "50 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-liz-100",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Liz 1.00m c/ 06 cadeiras Mariana",
+      "description": "Mesa moderna com tampo BP, base Metalon de alta resistência e acabamento artesan...",
+      "longDescription": "Mesa moderna com tampo BP, base Metalon de alta resistência e acabamento artesanal em corda naval. Projeto versátil (pode ser montada com 4 ou 6 cadeiras).",
+      "image": "/images/Mesas/mesa-liz-100/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-liz-100/img_1.jpg"
+      ],
+      "price": "R$ 1.598,00",
+      "especificacoes_mesa": {
+        "modelo": "Liz",
+        "altura": "0,78 m",
+        "largura": "1,00 m",
+        "profundidade": "1,00 m",
+        "materiais": "Tampo BP, base Metalon e corda naval"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Mariana",
+        "quantidade": 6,
+        "dimensoes": {
+          "altura": "1,00 m",
+          "largura": "0,39 m",
+          "profundidade": "0,48 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-aura-oval-8-cadeiras",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Oval Aura 2,20x1,10 com 08 cadeiras Siena",
+      "description": "Mesa de Jantar Aura – Tampo Laminado com Base cilíndrica Madeira Maciça.",
+      "longDescription": "Mesa de Jantar Aura – Tampo Laminado com Base cilíndrica Madeira Maciça. Versão expandida com 8 cadeiras.",
+      "image": "/images/Mesas/mesa-aura-oval-8-cadeiras/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-aura-oval-8-cadeiras/img_1.jpg"
+      ],
+      "price": "R$ 6.900,00",
+      "especificacoes_mesa": {
+        "modelo": "Aura",
+        "formato": "Oval",
+        "medidas": "2,20 x 1,10m",
+        "base": "Cilíndrica Madeira Maciça",
+        "tampo": "Laminado"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Siena",
+        "quantidade": 8,
+        "estrutura": "Ferro",
+        "tecido": "Courino"
+      }
+    },
+    {
+      "id": "mesa-barcelona-180",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Barcelona 1,80m",
+      "description": "Mesa Barcelona 1,80 x 0,90 com Base Ripada em Madeira Imbuia Mel e Tampo Off Whi...",
+      "longDescription": "Mesa Barcelona 1,80 x 0,90 com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro Laqueado",
+      "image": "/images/Mesas/mesa-barcelona-180/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-barcelona-180/img_1.jpg",
+        "/images/Mesas/mesa-barcelona-180/img_2.jpg"
+      ],
+      "price": "R$ 1.890,00",
+      "especificacoes_mesa": {
+        "modelo": "Barcelona",
+        "medidas": "1,80m x 0,90m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White",
+        "estilo": "Moderno contemporâneo",
+        "capacidade": "Até 6 lugares"
+      },
+      "especificacoes_cadeira": null
+    },
+    {
+      "id": "mesa-barcelona-emilly",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Barcelona 2,20m com 08 cadeiras Emilly",
+      "description": "Mesa Barcelona com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro ...",
+      "longDescription": "Mesa Barcelona com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro Laqueado. Equipado com 8 confortáveis cadeiras Emilly.",
+      "image": "/images/Mesas/mesa-barcelona-emilly/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-barcelona-emilly/img_1.jpg",
+        "/images/Mesas/mesa-barcelona-emilly/img_2.jpg",
+        "/images/Mesas/mesa-barcelona-emilly/img_3.jpg",
+        "/images/Mesas/mesa-barcelona-emilly/img_4.jpg",
+        "/images/Mesas/mesa-barcelona-emilly/img_5.jpg"
+      ],
+      "price": "R$ 4.099,00",
+      "especificacoes_mesa": {
+        "modelo": "Barcelona",
+        "medidas": "2,20x1,00m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White",
+        "estilo": "Moderno contemporâneo"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Emilly",
+        "quantidade": 8,
+        "estrutura": "Madeira cor cinamomo",
+        "dimensoes": {
+          "altura": "0,96 m",
+          "largura": "0,48 m",
+          "profundidade": "0,62 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-barcelona-pequim",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Barcelona 2,20m com 08 cadeiras pequim",
+      "description": "Mesa Barcelona com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro ...",
+      "longDescription": "Mesa Barcelona com Base Ripada em Madeira Imbuia Mel e Tampo Off White em Vidro Laqueado. Acompanha 8 luxuosas cadeiras Pequim.",
+      "image": "/images/Mesas/mesa-barcelona-pequim/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-barcelona-pequim/img_1.jpg",
+        "/images/Mesas/mesa-barcelona-pequim/img_2.jpg",
+        "/images/Mesas/mesa-barcelona-pequim/img_3.jpg"
+      ],
+      "price": "R$ 6.699,00",
+      "especificacoes_mesa": {
+        "modelo": "Barcelona",
+        "medidas": "2,20x1,00m",
+        "formato": "Retangular",
+        "base": "Madeira padrão Imbuia Mel",
+        "tampo": "Vidro laqueado Off White",
+        "estilo": "Moderno contemporâneo"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Pequim",
+        "quantidade": 8,
+        "estrutura": "Madeira cor mel",
+        "dimensoes": {
+          "altura": "0,91 m",
+          "largura": "0,54 m",
+          "profundidade": "0,56 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-denver-270",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Denver 2,70x1,10m",
+      "description": "Mesa com design contemporâneo e acabamento em tom mel.",
+      "longDescription": "Mesa com design contemporâneo e acabamento em tom mel.",
+      "image": "/images/Mesas/mesa-denver-270/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-denver-270/img_1.jpg",
+        "/images/Mesas/mesa-denver-270/img_2.jpg",
+        "/images/Mesas/mesa-denver-270/img_3.jpg",
+        "/images/Mesas/mesa-denver-270/img_4.jpg",
+        "/images/Mesas/mesa-denver-270/img_5.mp4"
+      ],
+      "price": "R$ 3.299,99",
+      "especificacoes_mesa": {
+        "modelo": "Denver",
+        "altura": "78 cm",
+        "largura": "270 cm",
+        "profundidade": "110 cm",
+        "material_tampo": "MDF 15 mm laminado",
+        "estrutura_pes": "Madeira maciça",
+        "cor": "Mel",
+        "capacidade": "8 a 10 lugares"
+      },
+      "especificacoes_cadeira": null
+    },
+    {
+      "id": "mesa-herval-mh5384",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Herval MH 5384 – 220×110 cm",
+      "description": "Mesa de Jantar Herval MH 5384.",
+      "longDescription": "Mesa de Jantar Herval MH 5384. Elegância, sofisticação e imponência para transformar sua sala de jantar! Estrutura de alta qualidade, tampo laminado amadeirado e detalhe na base com acabamento dourado em tinta automotiva. Ideal para ambientes amplos.",
+      "image": "/images/Mesas/mesa-herval-mh5384/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-herval-mh5384/img_1.png",
+        "/images/Mesas/mesa-herval-mh5384/img_2.webp",
+        "/images/Mesas/mesa-herval-mh5384/img_3.png",
+        "/images/Mesas/mesa-herval-mh5384/img_4.jpg",
+        "/images/Mesas/mesa-herval-mh5384/img_5.jpg",
+        "/images/Mesas/mesa-herval-mh5384/img_6.mp4"
+      ],
+      "price": "R$ 4.199,90",
+      "especificacoes_mesa": {
+        "modelo": "Herval MH 5384",
+        "altura": "77 cm",
+        "largura": "220 cm",
+        "profundidade": "110 cm",
+        "estrutura": "Madeira",
+        "tampo": "Laminado amadeirado",
+        "detalhe_base": "Acabamento dourado in tinta automotiva",
+        "estilo": "Moderno e sofisticado"
+      },
+      "especificacoes_cadeira": null
+    },
+    {
+      "id": "mesa-jasmim-italia",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Jasmin 1,20m x 0,80m com 4 Cadeiras Itália",
+      "description": "Conjunto premium de alta resistência para salas de jantar finas.",
+      "longDescription": "Conjunto premium de alta resistência para salas de jantar finas.",
+      "image": "/images/Mesas/mesa-jasmim-italia/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-jasmim-italia/img_1.png",
+        "/images/Mesas/mesa-jasmim-italia/img_2.png",
+        "/images/Mesas/mesa-jasmim-italia/img_3.png",
+        "/images/Mesas/mesa-jasmim-italia/img_4.png",
+        "/images/Mesas/mesa-jasmim-italia/img_5.png",
+        "/images/Mesas/mesa-jasmim-italia/img_6.png",
+        "/images/Mesas/mesa-jasmim-italia/img_7.jpg"
+      ],
+      "price": "R$ 5.599,00",
+      "especificacoes_mesa": {
+        "modelo": "Jasmin",
+        "comprimento": "1,20 m",
+        "largura": "0,80 m",
+        "altura": "0,78 m"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Itália",
+        "quantidade": 4,
+        "estrutura": "Madeira",
+        "uso_indicado": "Ambientes internos",
+        "dimensoes": {
+          "altura": "86 cm",
+          "largura": "47 cm",
+          "profundidade": "45 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-jasmim-turquia",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Jasmin 1,20m x 0,80m com 04 cadeiras Turquia",
+      "description": "Base em madeira: resistência e estabilidade.",
+      "longDescription": "Base em madeira: resistência e estabilidade. Tampo em vidro laqueado: visual moderno e de fácil limpeza. Cadeiras Turquia: design exclusivo que une conforto e charme.",
+      "image": "/images/Mesas/mesa-jasmim-turquia/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-jasmim-turquia/img_1.jpg",
+        "/images/Mesas/mesa-jasmim-turquia/img_2.jpg",
+        "/images/Mesas/mesa-jasmim-turquia/img_3.jpg",
+        "/images/Mesas/mesa-jasmim-turquia/img_4.jpg"
+      ],
+      "price": "R$ 2.299,00",
+      "especificacoes_mesa": {
+        "modelo": "Jasmin",
+        "comprimento": "1,20 m",
+        "largura": "0,80 m",
+        "altura": "0,78 m",
+        "base": "Madeira",
+        "tampo": "Vidro laqueado"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeiras Turquia",
+        "quantidade": 4,
+        "detalhes": "Design exclusivo de alto requinte"
+      }
+    },
+    {
+      "id": "mesa-montreal-costa-rica",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Montreal 2,20x1,10 tampo orgânico com 06 cadeiras costa rica",
+      "description": "Mesa de Jantar Montreal – Tampo orgânico laminado com Base cilíndrica Madeira Ma...",
+      "longDescription": "Mesa de Jantar Montreal – Tampo orgânico laminado com Base cilíndrica Madeira Maciça. Adicione um toque de sofisticação e conforto ao seu ambiente com este conjunto exclusivo que combina design orgânico e materiais premium.",
+      "image": "/images/Mesas/mesa-montreal-costa-rica/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-montreal-costa-rica/img_1.jpg",
+        "/images/Mesas/mesa-montreal-costa-rica/img_2.jpg",
+        "/images/Mesas/mesa-montreal-costa-rica/img_3.jpg",
+        "/images/Mesas/mesa-montreal-costa-rica/img_4.jpg",
+        "/images/Mesas/mesa-montreal-costa-rica/img_5.jpg",
+        "/images/Mesas/mesa-montreal-costa-rica/img_6.jpg"
+      ],
+      "price": "R$ 6.299,00",
+      "especificacoes_mesa": {
+        "modelo": "Montreal",
+        "dimensoes": "2,20 x 1,10 m",
+        "tampo": "Orgânico laminado",
+        "base": "Cilíndrica em Madeira Maciça"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Costa Rica",
+        "quantidade": 6,
+        "estrutura": "Madeira de Eucalipto",
+        "dimensoes": {
+          "altura": "0,80 m",
+          "largura": "0,57 m",
+          "profundidade": "0,55 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-athenas-redonda",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Athenas redonda s/ vidro 1.03 com 04 cadeiras",
+      "description": "Mesa Athenas redonda sem aplicação de vidro no tampo.",
+      "longDescription": "Mesa Athenas redonda sem aplicação de vidro no tampo.",
+      "image": "/images/Mesas/mesa-athenas-redonda/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-athenas-redonda/img_1.jpg"
+      ],
+      "price": "R$ 1.320,00",
+      "especificacoes_mesa": {
+        "modelo": "Athenas",
+        "altura": "0,80 m",
+        "largura": "1,03 m",
+        "profundidade": "1,03 m"
+      },
+      "especificacoes_cadeira": {
+        "quantidade": 4
+      }
+    },
+    {
+      "id": "mesa-celeste-6-cadeiras",
+      "categoryId": "mesas",
+      "title": "Mesa de jantar Celeste 1.60m com 06 cadeiras Zoe",
+      "description": "Mesa Produzida em MDF e MDP, sapatas deslizadoras que protegem da umidade e Deta...",
+      "longDescription": "Mesa Produzida em MDF e MDP, sapatas deslizadoras que protegem da umidade e Detalhe central inclinado, vidro usinado no tampo. Peças podem ser vendidas separadamente.",
+      "image": "/images/Mesas/mesa-celeste-6-cadeiras/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-celeste-6-cadeiras/img_1.jpg"
+      ],
+      "price": "R$ 2.199,00",
+      "especificacoes_mesa": {
+        "modelo": "Celeste",
+        "altura": "80 cm",
+        "largura": "1.60 m",
+        "profundidade": "90 cm",
+        "material": "MDF e MDP",
+        "detalhes": "Sapatas deslizadoras, vidro usinado no tampo"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Zoe",
+        "quantidade": 6,
+        "dimensoes": {
+          "altura": "1.00 m",
+          "largura": "42 cm",
+          "profundidade": "61 cm"
+        }
+      }
+    },
+    {
+      "id": "mesa-italia-tampo-vidro",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Itália tp vidro 2.00m c/ 08 cadeiras vitória",
+      "description": "Conjunto grande e luxuoso.",
+      "longDescription": "Conjunto grande e luxuoso. Produzido com madeira de lyptus tratado e humanizado, com tampo de vidro sofisticado.",
+      "image": "/images/Mesas/mesa-italia-tampo-vidro/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-italia-tampo-vidro/img_1.jpg"
+      ],
+      "price": "R$ 5.549,00",
+      "especificacoes_mesa": {
+        "modelo": "Itália",
+        "altura": "0,75 m",
+        "largura": "2,00 m",
+        "profundidade": "1,00 m",
+        "material": "Madeira de lyptus tratado",
+        "tampo": "Vidro"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Vitória",
+        "quantidade": 8,
+        "dimensoes": {
+          "altura": "0,92 m",
+          "largura": "0,44 m",
+          "profundidade": "0,52 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-safira-sem-vidro",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Safira s/vidro 1.80x90 c/ 06 cadeiras Safira",
+      "description": "Conjunto de jantar rústico contemporâneo com mesa e cadeiras combinando perfeita...",
+      "longDescription": "Conjunto de jantar rústico contemporâneo com mesa e cadeiras combinando perfeitamente.",
+      "image": "/images/Mesas/mesa-safira-sem-vidro/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-safira-sem-vidro/img_1.jpg"
+      ],
+      "price": "R$ 2.790,00",
+      "especificacoes_mesa": {
+        "modelo": "Safira",
+        "altura": "0,80 m",
+        "largura": "1,36 m",
+        "profundidade": "0,90 m"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Safira",
+        "quantidade": 6,
+        "dimensoes": {
+          "altura": "0,90 m",
+          "largura": "0,45 m",
+          "profundidade": "0,50 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-valencia",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Valência",
+      "description": "Mesa de jantar disponível nos tamanhos 1,36x0,75m a 1,70x0,75m.",
+      "longDescription": "Design nórdico clean e minimalista. A Mesa de Jantar Valência oferece pernas anguladas de madeira maciça e tampo com acabamento fosco refinado, ideal para composições contemporâneas.",
+      "image": "/images/Mesas/mesa-valencia/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-valencia/img_1.jpg"
+      ],
+      "price": "Sob Consulta"
+    },
+    {
+      "id": "mesa-valencia-170",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Valência 1.70x0.80 c/ 06 cadeira 151",
+      "description": "Estrutura moderna tubular de ferro com cadeiras modelo 151.",
+      "longDescription": "Estrutura moderna tubular de ferro com cadeiras modelo 151.",
+      "image": "/images/Mesas/mesa-valencia-170/img_1.jpg",
+      "images": [
+        "/images/Mesas/mesa-valencia-170/img_1.jpg"
+      ],
+      "price": "R$ 1.790,00",
+      "especificacoes_mesa": {
+        "modelo": "Valência",
+        "altura": "0,78 m",
+        "largura": "1,70 m",
+        "profundidade": "0,80 m",
+        "estrutura": "Tubular 3/4"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira 151",
+        "quantidade": 6,
+        "dimensoes": {
+          "altura": "0,92 m",
+          "largura": "0,34 m",
+          "profundidade": "0,46 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-valencia-6-cadeiras",
+      "categoryId": "mesas",
+      "title": "Mesa de jantar Valência 1.70x0.75 com 06 cadeiras Atena",
+      "description": "Conjunto com base e estruturas tubulares reforçadas de 3/4 polegadas.",
+      "longDescription": "Conjunto com base e estruturas tubulares reforçadas de 3/4 polegadas.",
+      "image": "/images/Mesas/mesa-valencia-6-cadeiras/img_1.png",
+      "images": [
+        "/images/Mesas/mesa-valencia-6-cadeiras/img_1.png",
+        "/images/Mesas/mesa-valencia-6-cadeiras/img_2.jpg",
+        "/images/Mesas/mesa-valencia-6-cadeiras/img_3.jpg",
+        "/images/Mesas/mesa-valencia-6-cadeiras/img_4.jpg"
+      ],
+      "price": "R$ 2.000,00",
+      "especificacoes_mesa": {
+        "modelo": "Valência",
+        "altura": "0,78 m",
+        "largura": "1,70 m",
+        "profundidade": "0,80 m",
+        "estrutura": "Tubular 3/4"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Atena",
+        "quantidade": 6,
+        "dimensoes": {
+          "altura": "0.925 m",
+          "largura": "0.460 m",
+          "profundidade": "0.610 m"
+        }
+      }
+    },
+    {
+      "id": "mesa-veneza-tampo-vidro",
+      "categoryId": "mesas",
+      "title": "Mesa de Jantar Veneza Tp vidro 2.00m c/ 06 cadeiras curitiba",
+      "description": "Mesa com estrutura produzida em madeira maciça de lyptus tratado 100% imunizado ...",
+      "longDescription": "Mesa com estrutura produzida em madeira maciça de lyptus tratado 100% imunizado e seco em estufa, tampo em MDF 25mm c/ vidro 3mm. Cadeira requintada confeccionada em madeira e tecido veludo.",
+      "image": "/images/Mesas/mesa-veneza-tampo-vidro/img_1.webp",
+      "images": [
+        "/images/Mesas/mesa-veneza-tampo-vidro/img_1.webp",
+        "/images/Mesas/mesa-veneza-tampo-vidro/img_2.webp",
+        "/images/Mesas/mesa-veneza-tampo-vidro/img_3.webp",
+        "/images/Mesas/mesa-veneza-tampo-vidro/img_4.webp",
+        "/images/Mesas/mesa-veneza-tampo-vidro/img_5.webp",
+        "/images/Mesas/mesa-veneza-tampo-vidro/img_6.jpg"
+      ],
+      "price": "R$ 3.299,00",
+      "especificacoes_mesa": {
+        "modelo": "Veneza",
+        "altura": "0,75 m",
+        "largura": "2,00 m",
+        "profundidade": "1,00 m",
+        "material": "Madeira maciça de lyptus",
+        "tampo": "MDF 25mm com vidro 3mm"
+      },
+      "especificacoes_cadeira": {
+        "modelo": "Cadeira Curitiba",
+        "quantidade": 6,
+        "material": "Madeira",
+        "tecido": "Veludo"
+      }
+    }
+  ]
+}
